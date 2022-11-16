@@ -1,5 +1,5 @@
 {
-  "name": "stega",
+  "name": "stegano",
   "version": "1.0.0",
   "description": "Library for hiding secret text in images and revealing it",
   "main": "./lib/encryptor.js",
